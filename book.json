@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "-edit-link",
-        "duoshuo"
+        "-edit-link"
     ],
     "pluginsConfig": {}
 }
