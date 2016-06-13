@@ -2,7 +2,8 @@
     "plugins": [
         "edit-link",
         "baidu",
-        "chatlog"
+        "chatlog",
+        "ace"
     ],
     "pluginsConfig": {
         "edit-link": {
