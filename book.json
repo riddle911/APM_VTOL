@@ -6,7 +6,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/riddle911/APM_VTOL",
+            "base": "https://github.com/riddle911/APM_VTOL/blob/master/SUMMARY.md",
             "label": "编辑本页"
         }
     }
