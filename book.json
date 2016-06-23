@@ -1,8 +1,7 @@
 {
     "gitbook": "2.0.1",
     "plugins": [
-        "edit-link",
-        "gistrun"
+        "edit-link"
     ],
     "pluginsConfig": {
         "edit-link": {
